@@ -1,4 +1,6 @@
 # Příklad dpType v TuyaIoT
+> [!NOTE]
+> Jedná se o překlad textu z [repozitáře TuyaOpen](https://github.com/tuya/arduino-TuyaOpen/tree/main/libraries/TuyaIoT/examples/dpType)
 
 ## Přehled
 
